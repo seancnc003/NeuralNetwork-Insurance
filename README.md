@@ -67,6 +67,13 @@ A project leveraging neural networks to predict insurance charges based on perso
 
 ---
 
+## Resume Bullet Points
+Neural Network Insurance Charges Model (Python/Scikit) | Machine Learning    
+
+* Implemented a predictive neural network model for linear regression to estimate insurance charges 
+* Analyzed over 9,000 data points with a standardized RMSE of 0.3881 as the average difference from actual values.
+
+
 ## Usage
 1. Clone the repository:
    ```bash
